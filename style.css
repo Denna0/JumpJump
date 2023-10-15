@@ -1,0 +1,25 @@
+body{
+    background: #000;
+}
+img{
+    position: absolute;
+    top: 10%;
+    left: 30%;
+}
+button{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 30px;
+    border-radius: 8px;
+}
+a:link{
+    text-decoration: none;
+    color: rgb(255, 66, 192);
+}
+img{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+}
